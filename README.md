@@ -2,7 +2,7 @@
 
 # humanoid_sar: Locomoción y Control de un Robot Humanoide en Escenarios SAR
 
-> Entornos de simulación y control de locomoción para el robot humanoide **Unitree G1** en misiones de búsqueda y rescate (SAR), integrando dinámicas de aprendizaje por refuerzo con MuJoCo y `mjlab`.
+> Locomocion y Manipulación Diestra Bimanual de Un Robot Humanoide para Tareas de Busqueda y Rescate.
 
 ---
 
