@@ -74,3 +74,5 @@ uv run play Mjlab-Tracking-Flat-Unitree-G1 \
     --motion-file "movimiento_cura.npz" \
     --device "cuda:0"
   
+<img width="1747" height="855" alt="RCP_NEW" src="https://github.com/user-attachments/assets/4321d55b-9a97-422c-b40a-f044ea484ebc" />
+
