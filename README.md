@@ -43,6 +43,13 @@ uv run play Mjlab-Velocity-Rough-Unitree-G1 \
     --device "cuda:0"
 :```bash
 
+
+<img width="1750" height="848" alt="Escenario_2_1" src="https://github.com/user-attachments/assets/f59d0acb-9c5b-48ac-a998-88ea59bffd10" />
+
+
+
+
+
 # 2 Seguimiento Cinemático y Manipulación Bimanual (`Tracking Motion`)
 
 > Módulo de ejecución y evaluación de trayectorias cinemáticas de referencia para el robot humanoide **Unitree G1**, enfocado en tareas de asistencia, contacto controlado y manipulación bimanual en entornos de búsqueda y rescate.
