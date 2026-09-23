@@ -68,11 +68,14 @@ Este módulo permite reproducir y evaluar políticas de control entrenadas para 
 
 Para cargar la política entrenada y reproducir la trayectoria de referencia (`movimiento_cura.npz`) en simulación:
 
+<img width="1747" height="855" alt="RCP_NEW" src="https://github.com/user-attachments/assets/4321d55b-9a97-422c-b40a-f044ea484ebc" />
+
+
 ```bash
 uv run play Mjlab-Tracking-Flat-Unitree-G1 \
     --checkpoint-file logs/rsl_rl/g1_tracking/2026-09-09_14-46-49/model_124500.pt \
     --motion-file "movimiento_cura.npz" \
     --device "cuda:0"
   
-<img width="1747" height="855" alt="RCP_NEW" src="https://github.com/user-attachments/assets/4321d55b-9a97-422c-b40a-f044ea484ebc" />
+
 
