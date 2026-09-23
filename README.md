@@ -4,7 +4,8 @@
 
 > Locomocion y Manipulación Diestra Bimanual de Un Robot Humanoide para Tareas de Busqueda y Rescate.
 
----
+---<img width="1584" height="888" alt="4_real_r" src="https://github.com/user-attachments/assets/bc2ea90a-67a4-4ac7-b885-58a6682ec53e" />
+
 
 ## Características
 
